@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549001269089",
+    "project_id": "video-1a6db",
+    "storage_bucket": "video-1a6db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549001269089:android:e4142678549ba9e6b8bf20",
+        "android_client_info": {
+          "package_name": "com.example.video_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549001269089-o5qco8bfh1rhhnfg5b6s3j0v11n4q584.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz7IuI9DjZRXIL0ZWQAeaNTf715p4dUrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549001269089-o5qco8bfh1rhhnfg5b6s3j0v11n4q584.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
